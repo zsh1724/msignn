@@ -1,5 +1,5 @@
 # Advancing Graph Isomorphism Tests with Metric Space Indicators: A Tool for Improving Graph Learning Tasks
-This repository contains the code for the AAAI 2024 submission:
+This repository contains the code for the CIKM 2025 submission:
 
 ### Overview:
 The MSIGNN introduces an effective metric indicator based GNN. The key contributions of our MSIGNN are twofold: (1) a novel isomorphism test k-MSI; and (2) a GNN based on node metric indicator, leading to enhanced graph classification performance in GNNs.
