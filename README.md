@@ -18,13 +18,14 @@ Code is written in Python 3.8 and requires:
 
 
 ## Cite as
-> Anonymous, Advancing Graph Isomorphism Tests with Metric Space Indicators: A Tool for Improving Graph Learning Tasks. CIKM submission 2025.
+> Shenghui Zhang, Pak Lon Ip, Rongqin	Chen, Shunran Zhang, and Leong Hou U, Advancing Graph Isomorphism Tests with Metric Space Indicators: A Tool for Improving Graph Learning Tasks. CIKM submission 2025.
 
 ### Bibtex:
 ```
-@inproceedings{anonymous2025CIKM,
+@inproceedings{zhang2025CIKM,
   title={Advancing Graph Isomorphism Tests with Metric Space Indicators: A Tool for Improving Graph Learning Tasks},
-  author={Anonymous},
-  booktitle={Anonymous},
+  author={Shenghui Zhang, Pak Lon Ip, Rongqin	Chen, Shunran Zhang, and Leong Hou U},
+  booktitle={CIKM},
   year={2025}
 }
+
